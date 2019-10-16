@@ -13,16 +13,16 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Your awesome title
-email: your-email@example.com
+title: My BIT Learning Journey
+email: rosaf2@student.op.ac.nz
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  The purpose of this site is to practice my Git, Markdown, HTML and YAML skills, and 
+  at the same time compilate and revise the several things that I have learnt throughout 
+  my first semester of the Bachelor of Information Technology at the Otago Polytechnic (Dunedin Campus).
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+# twitter_username: jekyllrb
+github_username:  ROSAF2
 
 # Build settings
 markdown: kramdown
