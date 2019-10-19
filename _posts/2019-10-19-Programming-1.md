@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Programming 1
-permalink: /P1/
+permalink: https://rosaf2.github.io/jekyll/P1/
 ---
 {% highlight csharp %}
 float number = 5.78F; 

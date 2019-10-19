@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Platforms and Devices
-permalink: /P&D/
+permalink: https://rosaf2.github.io/jekyll/P&D/
 ---
 
 ## *Troubleshooting Step Process*

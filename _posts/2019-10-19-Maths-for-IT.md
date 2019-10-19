@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Maths For IT
-permalink: /Maths/
+permalink: https://rosaf2.github.io/jekyll/Maths/
 ---
 
 ## *Boolean Algebra Cheat Sheet* 

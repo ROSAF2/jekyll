@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Jekyll Review"
-permalink: /Jekyll/
+permalink: https://rosaf2.github.io/jekyll/Jekyll/
 ---
 
 >---

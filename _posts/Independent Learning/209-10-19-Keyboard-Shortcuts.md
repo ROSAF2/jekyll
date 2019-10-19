@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Keyboard Shortcuts for Programmers"
-permalink: /Shortcuts/
+permalink: https://rosaf2.github.io/jekyll/Shortcuts/
 ---
 ## *Basic Commands*
 

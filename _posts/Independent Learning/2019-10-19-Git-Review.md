@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Git Review"
-permalink: /Git/
+permalink: https://rosaf2.github.io/jekyll/Git/
 ---
 ## *Git Commands*
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Windows CLI Review"
-permalink: /CLI/
+permalink: https://rosaf2.github.io/jekyll/CLI/
 ---
 ## *Command Line*
 
