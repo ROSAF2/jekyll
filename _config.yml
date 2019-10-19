@@ -17,7 +17,7 @@ title: My BIT Learning Journey
 email: rosaf2@student.op.ac.nz
 description: >- # this means to ignore newlines until "baseurl:"
   
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "jekyll" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 github_username:  ROSAF2
