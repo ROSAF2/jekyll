@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Jekyll Review"
-permalink: http://localhost:4000/Jekyll/
+permalink: /Jekyll/
 ---
 
 >---
