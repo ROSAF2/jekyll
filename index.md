@@ -5,7 +5,7 @@
 layout: post
 ---
 
-> <h2><a href="https://rosaf2.github.io/jekyll/Maths/">Maths for IT</a></h2>
+> <h2><a href="http://localhost:4000/Maths/">Maths for IT</a></h2>
 
 > <h2><a href="https://rosaf2.github.io/jekyll/P&D/">Platforms And Devices</a></h2>
 
