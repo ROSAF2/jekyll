@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Markdown Review"
-permalink: https://rosaf2.github.io/jekyll/Markdown/
+permalink: /Markdown/
 ---
 
 # New post

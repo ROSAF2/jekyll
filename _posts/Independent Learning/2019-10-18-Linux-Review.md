@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Linux Review"
-permalink: https://rosaf2.github.io/jekyll/Linux/
+permalink: /Linux/
 ---
 ## *Basic Commands*
 
