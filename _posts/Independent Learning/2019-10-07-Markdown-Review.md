@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Markdown Review"
+permalink: /Markdown/
 ---
 
 # New post

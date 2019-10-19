@@ -16,10 +16,8 @@
 title: My BIT Learning Journey
 email: rosaf2@student.op.ac.nz
 description: >- # this means to ignore newlines until "baseurl:"
-  The purpose of this site is to practice my Git, Markdown, HTML and YAML skills, and 
-  at the same time compilate and revise the several things that I have learnt throughout 
-  my first semester of the Bachelor of Information Technology at the Otago Polytechnic (Dunedin Campus).
-baseurl: "jekyll" # the subpath of your site, e.g. /blog
+  
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 github_username:  ROSAF2
@@ -27,6 +25,7 @@ github_username:  ROSAF2
 # Build settings
 markdown: kramdown
 theme: minima
+highlighter: rouge
 plugins:
   - jekyll-feed
 
