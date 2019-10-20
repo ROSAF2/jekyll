@@ -20,7 +20,7 @@ permalink: /P&D/
 
 ---
 
-<h2><i><a href="https://rosaf2.github.io/jekyll/P&D/" target="_blank">Batch Script Assignment</a></i></h2>
+<h2><i><a href="https://rosaf2.github.io/jekyll/CLI/" target="_blank">Batch Script Assignment</a></i></h2>
 
 ---
 
