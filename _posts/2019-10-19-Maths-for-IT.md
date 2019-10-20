@@ -40,10 +40,11 @@ A\*(B+C)=(A\*B)+(A\*C)
 
 ---
 ## *Visualazing Mathematics!*
-[**Manim**](https://www.youtube.com/playlist?list=PL2B6OzTsMUrwo4hA3BBfS7ZR34K361Z8F)
+
+<b><a href="https://www.youtube.com/playlist?list=PL2B6OzTsMUrwo4hA3BBfS7ZR34K361Z8F" target="_blank">Manim</a></b>
 
 ---
 
 ## *Consider yourself a developer?* 
 
-[**Read this article**](https://blog.usejournal.com/consider-yourself-a-developer-you-should-solve-the-project-euler-problems-ed8d13397c9c) 
+<b><a href="https://blog.usejournal.com/consider-yourself-a-developer-you-should-solve-the-project-euler-problems-ed8d13397c9c" target="_blank">Read this article</a></b>
