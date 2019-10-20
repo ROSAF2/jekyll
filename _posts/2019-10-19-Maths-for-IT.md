@@ -47,4 +47,4 @@ A\*(B+C)=(A\*B)+(A\*C)
 
 ## *Consider yourself a developer?* 
 
-<b><a href="https://blog.usejournal.com/consider-yourself-a-developer-you-should-solve-the-project-euler-problems-ed8d13397c9c" target="_blank">Reahhhhd this article</a></b>
+<b><a href="https://blog.usejournal.com/consider-yourself-a-developer-you-should-solve-the-project-euler-problems-ed8d13397c9c" target="_blank">Read this article</a></b>

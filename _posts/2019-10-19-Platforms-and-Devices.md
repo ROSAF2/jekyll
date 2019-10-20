@@ -15,8 +15,7 @@ permalink: /P&D/
 
 ---
 
-## *Understanding OSI* 
-[Illustrated Version](https://www.lifewire.com/layers-of-the-osi-model-illustrated-818017) 
+<h2><i><a href="https://www.lifewire.com/layers-of-the-osi-model-illustrated-818017" target="_blank">Understanding OSI</a></i></h2>
 
 ---
 
