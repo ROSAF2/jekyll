@@ -86,6 +86,7 @@ git remote add origin
 
 {% highlight shell %}
 git push origin 
+git push -u origin master
 {% endhighlight %}
 *pushes branch to remote repo*
 
