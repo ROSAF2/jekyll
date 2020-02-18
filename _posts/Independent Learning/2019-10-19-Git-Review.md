@@ -101,6 +101,7 @@ git pull origin
 
 {% highlight shell %}
 git branch
+git branch -a
 {% endhighlight %}
 *creates new branch or displays existing branches*
 
