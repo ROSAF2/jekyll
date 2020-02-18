@@ -78,6 +78,13 @@ git pull
 >---
 
 {% highlight shell %}
+git remote -v
+{% endhighlight %}
+*displays information about the repository*
+
+>---
+
+{% highlight shell %}
 git remote add origin
 {% endhighlight %}
 *serves up local repo to the web*
@@ -102,6 +109,7 @@ git pull origin
 {% highlight shell %}
 git branch
 git branch -a
+git branch --merged
 {% endhighlight %}
 *creates new branch or displays existing branches*
 
